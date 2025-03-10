@@ -1,4 +1,4 @@
-HEAD
+
 # 🛒 ShopEase Fullstack E-Commerce Project
 
 ![image](https://github.com/user-attachments/assets/d623b68b-023e-420f-90c4-143a9285780e)
@@ -85,4 +85,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
- (First Commit)
+
